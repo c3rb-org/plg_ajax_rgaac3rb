@@ -11,6 +11,10 @@
     <files>
 	<filename plugin="rgaac3rb">rgaac3rb.php</filename>
     </files>
+    <languages>
+	<language tag="fr-FR">language/fr-FR/fr-FR.plg_ajax_rgaac3rb.ini</language>
+	<language tag="fr-FR">language/fr-FR/fr-FR.plg_ajax_rgaac3rb.sys.ini</language>
+    </languages>
     <updateservers>
 	<server type="extension" priority="1" name="Ajax - Template C3rb RGAA">http://update.c3rb.org/joomla3/plg_ajax_rgaac3rb.xml</server>
     </updateservers>
