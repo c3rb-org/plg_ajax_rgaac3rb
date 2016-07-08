@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="ajax" method="upgrade">
+    <name>plg_ajax_rgaac3rb</name>
+    <creationDate>08/07/2016</creationDate>
+    <author>C3rb Informatique</author>
+    <authorEmail>orphee@c3rb.fr</authorEmail>
+    <authorUrl>www.c3rb.org</authorUrl>
+    <copyright>Copyright (C) 2016 C3RB Informatique. All rights reserved.</copyright>
+    <version>1.0.0</version>
+    <description>plg_ajax_rgaac3rb_xml_desc</description>
+    <files>
+	<filename plugin="rgaac3rb">rgaac3rb.php</filename>
+    </files>
+</extension>
