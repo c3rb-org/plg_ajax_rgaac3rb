@@ -11,4 +11,7 @@
     <files>
 	<filename plugin="rgaac3rb">rgaac3rb.php</filename>
     </files>
+    <updateservers>
+	<server type="extension" priority="1" name="Ajax - Template C3rb RGAA">http://update.c3rb.org/joomla3/plg_ajax_rgaac3rb.xml</server>
+    </updateservers>
 </extension>
